@@ -1,0 +1,13 @@
+C:\Users\rizor\source\repos\atmBank\atmBank\bin\Debug\netcoreapp3.1\atmBank.exe
+C:\Users\rizor\source\repos\atmBank\atmBank\bin\Debug\netcoreapp3.1\atmBank.deps.json
+C:\Users\rizor\source\repos\atmBank\atmBank\bin\Debug\netcoreapp3.1\atmBank.runtimeconfig.json
+C:\Users\rizor\source\repos\atmBank\atmBank\bin\Debug\netcoreapp3.1\atmBank.runtimeconfig.dev.json
+C:\Users\rizor\source\repos\atmBank\atmBank\bin\Debug\netcoreapp3.1\atmBank.dll
+C:\Users\rizor\source\repos\atmBank\atmBank\bin\Debug\netcoreapp3.1\atmBank.pdb
+C:\Users\rizor\source\repos\atmBank\atmBank\obj\Debug\netcoreapp3.1\atmBank.csprojAssemblyReference.cache
+C:\Users\rizor\source\repos\atmBank\atmBank\obj\Debug\netcoreapp3.1\atmBank.AssemblyInfoInputs.cache
+C:\Users\rizor\source\repos\atmBank\atmBank\obj\Debug\netcoreapp3.1\atmBank.AssemblyInfo.cs
+C:\Users\rizor\source\repos\atmBank\atmBank\obj\Debug\netcoreapp3.1\atmBank.csproj.CoreCompileInputs.cache
+C:\Users\rizor\source\repos\atmBank\atmBank\obj\Debug\netcoreapp3.1\atmBank.dll
+C:\Users\rizor\source\repos\atmBank\atmBank\obj\Debug\netcoreapp3.1\atmBank.pdb
+C:\Users\rizor\source\repos\atmBank\atmBank\obj\Debug\netcoreapp3.1\atmBank.genruntimeconfig.cache
